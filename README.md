@@ -2,6 +2,6 @@
 Repositorio para armazenar estudos e de programação web
 
 
-| Nome da Tabela    | Nome da Coluna       | Tipo de Dados | Comentário                 |
+| Nome    | Realese Date       | Stacks | Descrição                 |
 |-------------------|----------------------|---------------|----------------------------|
-| usuarios          | id                  | INTEGER       | Identificador único        |
+| Cartão de embarque          | 11/12/2024                 | HTML, CSS      | Criando cartão de embarque com html e css       |
